@@ -3,7 +3,7 @@ module.exports = {
     title: `Five minutes dev tip`,
     author: `Rodrigo Morales`,
     description: `A blog to learn development tips in five minutes, demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://vibrant-kare-d8bb7f.netlify.com/`,
     social: {
       twitter: `rodrigomf24`,
     },
