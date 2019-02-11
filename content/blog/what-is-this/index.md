@@ -26,13 +26,12 @@ Once the idea was solidified, I decided to name it:
 I'm a software developer, I've worked with web development languages since 2013. Born
 in Guatemala and currently a resident in Sacramento, CA. I've been living in the US
 for 4 years now. I've worked for product based companies and as a consultant, some of
-the companies I've worked projects for are XYZ Networks, Retail Pro, Siemens, Ericsson,
+the companies I've worked projects for are StarMedia, Retail Pro, Siemens, Ericsson,
 EKA Solutions, and Volvo. 
 
-I currently work for Volvo in the Luxe team at their San Francisco office. I enjoy a nice 
-bike ride along the river or at a muddy mountain. I'm a petrol head, I have profound love
-for classic european cars, currently working on restoring an 318is e30.
-
+I currently work for Volvo Luxe team at their San Francisco office. I enjoy a nice 
+bike ride along the river. I'm a petrol head, I have profound love for classic european
+cars, currently I'm working on restoring a 318is e30.
 
 This is my first post on my new blog! How exciting!
 I'm sure I'll write a lot more interesting things in the future, so stay tuned.
