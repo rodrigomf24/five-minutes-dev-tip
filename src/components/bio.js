@@ -34,7 +34,7 @@ function Bio() {
               Written by <strong>{author}</strong> who lives in Sacramento and works in San
               Francisco contributing to the tech impact of Volvo through Luxe.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`} target="_blank">
+              <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">
                 You should follow him on Twitter
               </a>
             </p>
